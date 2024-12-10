@@ -71,13 +71,13 @@ img {
 
 .list__header {
     display: flex;
-    gap: 40px;
-    padding: 24px 0;
-    
+    gap: 40px; 
+    margin: 0;
 }
 
 .link__header {
     display: block;
+    padding: 24px 0;
 }
 
 .logo__span__header {
