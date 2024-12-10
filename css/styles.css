@@ -378,7 +378,7 @@ img {
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
     transform: translateY(100%);
 }
-.portfolio__card:hover {
+.portfolio__card:hover .card__icons__desk {
     transform: translateY(0%);
 
 }
@@ -449,7 +449,7 @@ img {
     margin-bottom: 16px;
 }
 
-.social__media .list__social__media {
+.social__media .list__social__icon {
     gap: 16px;
 }
 
